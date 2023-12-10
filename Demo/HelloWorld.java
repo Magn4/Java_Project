@@ -1,3 +1,4 @@
+package Demo;
 /* Class for output of the "Hello World" String */
 
 public class HelloWorld {
